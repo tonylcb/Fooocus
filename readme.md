@@ -287,7 +287,7 @@ Given different goals, the default models and configs of Fooocus are different:
 
 | Task | Windows | Linux args | Main Model | Refiner | Config                                                                         |
 | --- | --- | --- | --- | --- |--------------------------------------------------------------------------------|
-| General | run.bat |  | juggernautXL_v8Rundiffusion | not used | [here](https://github.com/lllyasviel/Fooocus/blob/main/presets/default.json)   |
+| General | run.bat |  | realismEngineSDXL_v30VAE | not used | [here](https://github.com/lllyasviel/Fooocus/blob/main/presets/default.json)   |
 | Realistic | run_realistic.bat | --preset realistic | realisticStockPhoto_v20 | not used | [here](https://github.com/lllyasviel/Fooocus/blob/main/presets/realistic.json) |
 | Anime | run_anime.bat | --preset anime | animaPencilXL_v100 | not used | [here](https://github.com/lllyasviel/Fooocus/blob/main/presets/anime.json)     |
 
