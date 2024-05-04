@@ -34,7 +34,7 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "35 yo latin female, long brown wavy hair, tunned healthy well cared skin,  in a yoga position at home in California, calm, focused, graceful, peaceful atmosphere, very busty, big ass, wearing gym clothes",
+    "default_prompt": "35 yo latin female, long brown wavy hair, tunned healthy detailed skin, sitting on a yoga mat, in New York City, busty, big ass, wearing clothes, natural light",
     "default_prompt_negative": "(hands: 1.3), (fingers: 1.3)",
     "default_styles": [
         "Fooocus V2",
