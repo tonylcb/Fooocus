@@ -186,7 +186,7 @@ with shared.gradio_root:
 
                                         ip_type.change(lambda x: flags.default_parameters[x], inputs=[ip_type], outputs=[ip_stop, ip_weight], queue=False, show_progress=False)
                                     ip_ad_cols.append(ad_col)
-                        ip_advanced = gr.Checkbox(label='Advanced', value=True, container=False)
+                        ip_advanced = gr.Checkbox(label='Advanced', value=False, container=False)
                         gr.HTML('* \"Image Prompt\" is powered by Fooocus Image Mixture Engine (v1.0.1). <a href="https://github.com/lllyasviel/Fooocus/discussions/557" target="_blank">\U0001F4D4 Document</a>')
 
                         def ip_advance_checked(x):
